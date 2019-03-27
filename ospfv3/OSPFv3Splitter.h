@@ -5,7 +5,7 @@
 //#include <cmodule.h>
 #include <string>
 #include "inet/common/INETDefs.h"
-#include "ansa/routing/ospfv3/process/OSPFv3Process.h"
+#include "inet/ansa/ospfv3/process/OSPFv3Process.h"
 #include "inet/common/ModuleAccess.h"
 #include "inet/networklayer/contract/IInterfaceTable.h"
 #include "inet/networklayer/ipv6/IPv6InterfaceData.h"
@@ -18,10 +18,10 @@
 #include "inet/networklayer/contract/ipv4/IPv4Address.h"
 #include "inet/networklayer/contract/ipv6/IPv6Address.h"
 
-#include "ansa/routing/ospfv3/OSPFv3Packet_m.h"
-#include "ansa/routing/ospfv3/process/OSPFv3Process.h"
-#include "ansa/routing/ospfv3/OSPFv3Timers.h"
-#include "ansa/routing/ospfv3/OSPFv3Common.h"
+#include "inet/ansa/ospfv3/OSPFv3Packet_m.h"
+#include "inet/ansa/ospfv3/process/OSPFv3Process.h"
+#include "inet/ansa/ospfv3/OSPFv3Timers.h"
+#include "inet/ansa/ospfv3/OSPFv3Common.h"
 
 namespace inet{
 

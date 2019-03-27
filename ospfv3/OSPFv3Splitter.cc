@@ -1,4 +1,4 @@
-#include "ansa/routing/ospfv3/OSPFv3Splitter.h"
+#include "inet.ansa/ospfv3/OSPFv3Splitter.h"
 
 namespace inet{
 

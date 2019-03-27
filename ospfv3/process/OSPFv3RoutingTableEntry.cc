@@ -1,4 +1,4 @@
-#include "ansa/routing/ospfv3/process/OSPFv3RoutingTableEntry.h"
+#include "inet/ansa/ospfv3/process/OSPFv3RoutingTableEntry.h"
 
 namespace inet{
 OSPFv3RoutingTableEntry::OSPFv3RoutingTableEntry(IInterfaceTable *ift, IPv6Address destPrefix, int prefixLength, SourceType sourceType) :

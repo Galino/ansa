@@ -1,4 +1,4 @@
-#include "ansa/routing/ospfv3/process/OSPFv3LSA.h"
+#include "inet/ansa/ospfv3/process/OSPFv3LSA.h"
 
 namespace inet{
 
