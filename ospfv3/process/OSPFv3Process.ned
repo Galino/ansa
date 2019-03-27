@@ -1,4 +1,4 @@
-package ansa.routing.ospfv3.process;
+package inet.ansa.ospfv3.process;
 
 simple OSPFv3Process
 {
